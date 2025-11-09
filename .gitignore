@@ -1,0 +1,6 @@
+*venv/etc
+*venv/lib
+*venv/include
+*venv/bin
+*venv/pyvenv.cfg
+*venv/share
