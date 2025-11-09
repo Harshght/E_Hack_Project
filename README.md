@@ -1,2 +1,3 @@
 # E_Hack_Project
-my first hackathon
+My first hackathon project i.e.
+NLP based product reviewer
